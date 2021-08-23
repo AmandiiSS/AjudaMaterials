@@ -1,0 +1,414 @@
+FRASES PARICAL / FINAL / RECUS
+Frases[] = ["",];
+
+FRASES DE PARCIALS
+
+Frases[0] = ["Las reacciones invariantes peritéctica y eutéctica tienen en común que una de las fases involucradas en la reacción es un líquido.", 1];
+Frases[1] = ["La ferrita, la austenita y la cementita tienen en común que todas son disoluciones sólidas de tipo intersticial.", 0];
+Frases[2] = ["En la estructura BCC, la relación entre el radio del átomo (R) y la arista de la celdilla (a) es a = 4·R/sqrt(2).",0];
+Frases[3] = ["En un proceso difusivo realizado a la misma temperatura, un átomo intersticial se movería más rápido que un átomo sustitucional.",1];
+Frases[4] = ["El coeficiente de difusión se expresa en unidades de [Longitud]^2/[Tiempo].",1];
+Frases[5] = ["La densidad de vacantes, es decir, el número de vacantes por unidad de volumen, aumenta con la temperatura según una ley de Arrhenius.",1];
+Frases[6] = ["Para una estructura cristalina FCC, el plano (100) presenta mayor densidad planar que el plano (111).",0];
+Frases[7] = ["El límite o borde de grano es un defecto de superficie de los materiales monocristalinos.",0];
+Frases[8] = ["En una dislocación mixta, el vector de Burgers cambia su dirección a lo largo de la línea de la dislocación.",0];
+Frases[9] = ["Durante la transformación martensítica de los aceros, los átomos de carbono que ocupan los intersticios octaédricos en la red FCC mantienen su posición. Esta posición coincide con la de los intersticios octaédricos de la red BCT de la martensita.",1];
+Frases[10] = ["En un proceso difusivo realizado a la misma temperatura, la difusión de C en hierro BCC sería más rápida que en hierro FCC.",1];
+Frases[11] = ["Un átomo que difunde a lo largo de un borde de grano mostrará mayor velocidad de difusión en las zonas de ángulo grande (menor coherencia) en comparación con las zonas de ángulo pequeño (mayor coherencia).",1];
+Frases[12] = ["Para poder resolver la primera ley de Fick es necesario aplicar condiciones de contorno de sólido semiinfinito.",0];
+Frases[13] = ["Si dos elementos puros A y B cumplen la primera regla de Hume-Rothery (diferencia de tamaños atómicos menor o igual a un 15%) pero no cumplen alguna de las otras tres reglas, entonces sus respectivas soluciones sólidas 𝛼 (alpha) y 𝛽 (beta) mostrarán solubilidad parcial.",1];
+Frases[14] = ["En el diagrama de fases Fe-Fe_3C, las fundiciones hipoeutécticas contienen a temperatura ambiente microconstituyente eutectoide.",1];
+Frases[15] = ["En un diagrama de fases cuando las líneas Liquidus y Solidus coinciden siempre definen una temperatura de fusión de tipo congruente.",0];
+Frases[16] = ["El número máximo de vacantes por unidad de volumen coincide con el número de átomos equivalentes que hay dentro del volumen de la celdilla unitaria.",1];
+Frases[17] = ["El flujo difusivo de átomos substitucionales en una dirección implica un movimiento de vacantes en dirección opuesta.",1];
+Frases[18] = ["El diagrama de fases termodinámico Fe-Fe_3C presenta 3 reacciones invariantes incongruentes, una peritéctica, una eutéctica y una eutectoide.",1];
+Frases[19] = ["Todas las aleaciones isomórficas binarias (diagrama de solubilidad total) presentan segregación química al ser enfriadas en condiciones de no-equilibrio desde el estado líquido al sólido.",1];
+Frases[20] = ["La frontera o borde de grano es un defecto lineal de los materiales policristalinos que se encuentra localizado en las zonas de contacto entre monocristales.",0];
+Frases[21] = ["Siempre que nos encontramos en un campo bifásico de un diagrama de fases se cumple que las composiciones químicas respectivas de las dos fases presentes en equilibrio termodinámico, a una temperatura fija dada, son las mismas independientemente de la composición nominal de la aleación que se está considerando.",1];
+Frases[22] = ["Los aceros hipoeutectoides y hipereutectoides, enfriados en condiciones termodinámicas de equilibrio, tienen en común que ambos presentan a temperatura ambiente microconstituyente invariante eutectoide llamado perlita.",1];
+Frases[23] = ["En la estructura cúbica FCC el vector de Burgers es el vector de separación interatómica a lo largo de la dirección más compacta del plano más compacto de dicha estructura.",1];
+Frases[24] = ["La proporción de ferrita y cementita en la perlita es constante para cualquier temperatura superior a la temperatura eutectoide.",0];
+Frases[25] = ["El coeficiente de autodifusión es mayor cuanto mayor sea la temperatura de fusión de la especie que difunde.",0];
+Frases[26] = ["En los aceros, la presencia de elementos que aumentan el rango austénitico, o gammagenos, incrementan también la cantidad de carbono del eutectoide por encima de 0,77%C.",0];
+Frases[27] = ["El índice o número de coordinación es el número de vecinos más cercanos a un átomo. Este índice es de 4 en redes FCC y de 2 en BCC.",0];
+Frases[28] = ["Cuando un elemento puro presenta un cambio de estructura cristalina a una temperatura invariante (o específica) se dice que dicho elemento sufre una reacción o transformación alotrópica.",1];
+Frases[29] = ["Los sólidos cristalinos formados por enlace covalente permiten obtener empaquetamientos más compactos de sus átomos en comparación con sólidos formados por enlace iónico.",0];
+Frases[30] = ["Las electronegatividades del cesio (Cs), del magnesio (Mg) y del cloro (Cl) valen 0.7, 1.2 y 3.0, respectivamente. Por tanto, el enlace atómico del cloruro de cesio (CsCl) presenta mayor carácter iónico que el enlace atómico del cloruro de magnesio (MgCl:2).",1];
+Frases[31] = ["El factor de empaquetamiento atómico de las estructuras cristalinas es independiente del radio del átomo que forma la red cristalina pero sí depende del número de átomos por celda.",1];
+Frases[32] = ["La estructura FCC se caracteriza por presentar una secuencia de apilamiento ABCABC en la dirección [111], un factor de empaquetamiento igual a 0.74 y 4 átomos/celda unidad.",1];
+Frases[33] = ["En una dislocación mixta, la magnitud del vector de Burgers es igual al espaciado interplanar y su dirección es paralela a la línea de la dislocación.",0];
+Frases[34] = ["En un material policristalino, la energía de superficie asociada a un borde de grano de ángulo grande es mayor que la de un borde de grano de ángulo pequeño porque los átomos que se encuentran en la frontera entre dos monocristales contiguos están más enlazados entre sí.",0];
+Frases[35] = ["Sabiendo el radio de los siguientes elementos (N=0.65 Å (Ángstroms), Cr=1.28 Å (Ángstroms), Fe=1.26 Å (Ángstroms)), podemos afirmar que las magnitudes de los coeficientes de difusión para los siguientes sistemas varían según el orden: N en Fe (900ºC) > N en Fe (700ºC) > Cr en Fe (700ºC).",1];
+Frases[36] = ["En un proceso de difusión, el gradiente de concentración es la pendiente de la gráfica resultante de representar la concentración frente a la distancia hacia el interior del material sólido.",1];
+Frases[37] = ["En un proceso de difusión en estado estacionario, un aumento de temperatura da lugar a un incremento del gradiente de concentración y, por tanto, del flujo de difusión.",0];
+Frases[38] = ["El proceso físico de difusión atómica entre dos metales, como Cu y Ni, que presentan solubilidad total acaba cuando la concentración de ambos se homogeniza.",0];
+Frases[39] = ["En un diagrama isomórfico binario, la línea que separa la fase sólida del campo bifásico se denomina línea solvus.",0];
+Frases[40] = ["En un diagrama de fases eutéctico binario existen únicamente dos transformaciones de fase congruentes que corresponden con la fusión de los elementos puros.",1];
+Frases[41] = ["En un diagrama de fases eutéctico binario la solubilidad máxima de un elemento en otro se alcanza a la temperatura eutéctica.",1];
+Frases[42] = ["El microconstituyente eutéctico forma capas alternas entre las fases α y β porque, para esta configuración laminar, la difusión atómica de los diferentes elementos solo se produce a distancias relativamente cortas.",1];
+Frases[43] = ["Un acero eutectoide tiene una microestructura 100% perlítica, consistente en láminas alternas de ferrita y austenita.",0];
+Frases[44] = ["El factor de empaquetamiento atómico de las estructuras cristalinas depende del radio del átomo que forma la estructura.",0];
+Frases[45] = ["La densidad lineal es igual en las direcciones [001] y [010] en una estructura BCC.",1];
+Frases[46] = ["Sabiendo que el carácter iónico del enlace Si-C en el carburo de silicio (SiC) es 12%, podemos afirmar que su estructura más probable es de tipo cloruro de sodio (NaCl).",0];
+Frases[47] = ["La estructura FCC se caracteriza por presentar una secuencia de apilamiento ABCABC en la dirección [111], un factor de empaquetamiento igual a 0.74 y 4 átomos/celda unidad.",1];
+Frases[48] = ["En una dislocación mixta, el vector de Burgers cambia su dirección a lo largo de toda la línea de la dislocación.",0];
+Frases[49] = ["Para una estructura FCC, la energía superficial del plano (100) es mayor que la del plano (101) debido a su menor densidad planar.",0];
+Frases[50] = ["La energía de activación para la difusión de carbono en hierro BCC es menor (122 kJ/mol) que en hierro FCC (142 kJ/ mol). Por tanto, la difusión de carbono es más rápida en hierro FCC.",0];
+Frases[51] = ["Durante un proceso de difusión en estado estacionario, el material experimenta un cambio de composición química con el tiempo.",0];
+Frases[52] = ["Los procesos de difusión de hidrógeno en el acero se dificultan debido a la presencia de límites de grano.",0];
+Frases[53] = ["En un proceso de difusión intersticial, el coeficiente de difusión es independiente de la red cristalina.",0];
+Frases[54] = ["En un diagrama eutéctico, la línea que separa la fase β del campo bifásico α+β se denomina línea solvus.",1];
+Frases[55] = ["La cementita es un material cerámico.",1];
+Frases[56] = ["Un acero eutectoide tiene una microestructura 100% perlítica, consistente en láminas alternas de ferrita y cementita.",1];
+Frases[57] = ["En el diagrama Fe-Fe3C la fase conocida como austenita es una solución sólida sustitucional de carbono en hierro de estructura FCC.",0];
+Frases[58] = ["En un diagrama de fases cuando las líneas liquidus y solidus coinciden siempre definen una reacción invariante eutéctica.",0];
+Frases[59] = ["En un metal, el número máximo de vacantes por unidad de volumen no coincide con el número de átomos por unidad de volumen de la celdilla unitaria.",0];
+Frases[60] = ["En las estructuras cristalinas, la energía de superficie de un plano es menor cuanto menor es la compacidad de dicho plano.",0];
+Frases[61] = ["La energía asociada a un borde de grano de ángulo grande es mayor que la de un borde de grano de ángulo pequeño.",1];
+Frases[62] = ["La frontera de macla o plano de maclado define una intercara donde los átomos de uno y otro lado se encuentran en posición especular.",1];
+Frases[63] = ["Las estructuras cristalinas FCC y HC poseen el mismo orden de apilamiento “A-B-C-A-B-C”.",0];
+Frases[64] = ["En una dislocación mixta el vector de Burgers varía, en módulo y dirección, a lo largo de toda la línea de la dislocación.",0];
+Frases[65] = ["En un proceso difusivo estacionario, el flujo aumenta exponencialmente con la temperatura.",1];
+Frases[66] = ["En un proceso difusivo no estacionario, el tiempo necesario para alcanzar en un punto interior del material cierto valor de concentración, aumenta si se disminuye la temperatura de tratamiento.",1];
+Frases[67] = ["En igualdad de condiciones, los procesos difusivos por vacantes son más lentos que los intersticiales. Por tanto, la energía necesaria para mover una vacante es menor que la energía de un intersticial.",0];
+Frases[68] = ["La compacidad de la red cristalina es un factor que afecta de igual modo a los procesos difusivos por vacantes y por intersticiales, es decir, a mayor compacidad más lento es el proceso.",1];
+Frases[69] = ["En un metal puro no existen gradientes de composición química. Por tanto, los procesos difusivos que implican transferencia de masa no se pueden dar bajo ningún concepto.",0];
+Frases[70] = ["La velocidad de difusión en estado sólido es mayor cuando el mecanismo de difusión es intersticial.",1];
+Frases[71] = ["Para una estructura cristalina cúbica centrada en las caras (FCC), el plano (100) presenta mayor densidad planar que el plano (111).",0];
+Frases[72] = ["En las estructuras cristalinas de los materiales cerámicos (sólidos iónicos) el número de coordinación de dichas estructuras aumenta al aumentar el cociente entre el radio del anión y el radio del catión.",0];
+Frases[73] = ["La alotropía es el fenómeno por el cual un material adopta dos estructuras cristalinas diferentes al cambiar ligeramente la temperatura.",1];
+Frases[74] = ["El número de vacantes aumenta con la temperatura según una ley de Arrhenius.",1];
+Frases[75] = ["La difusión de cierto elemento a través de una lámina metálica se rige por la primera ley de Fick si cumple las condiciones de régimen estacionario; en consecuencia, debe existir acumulación de dicho elemento en el interior de la lámina.",0];
+Frases[76] = ["El límite de grano es un defecto de superficie de los materiales monocristalinos.",0];
+Frases[77] = ["En cierto proceso, una aleación líquida de Ni-Cu se enfría rápidamente. La aleación sólida resultante será policristalina y sus granos mostrarán segregación química.",1];
+Frases[78] = ["Una aleación isomórfica binaria solidificada rápidamente muestra en el centro de sus granos una composición química más rica en el elemento de menor temperatura de fusión.",0];
+Frases[79] = ["Al calentar una aleación isomórfica binaria que muestra segregación química se observa que ésta funde a una temperatura más baja que la esperada.",1];
+Frases[80] = ["El número de grados de libertad en una reacción invariante es igual a cero, es decir, la reacción está totalmente determinada.",1];
+Frases[81] = ["En el diagrama Fe-C hay dos reacciones alotrópicas.",1];
+Frases[82] = ["Las reacciones invariantes eutéctica, eutectoide y peritectica forman mezclas heterogéneas.",0];
+Frases[83] = ["La ledeburita y la perlita son, respectivamente, los micro-constituyentes eutéctico y eutectoide de las aleaciones de Fe-C.",1];
+Frases[84] = ["Las propiedades de los materiales no dependen del proceso de conformación; sólo dependen de su microestructura.",0];
+Frases[85] = ["La estructura cristalina hexagonal (HC) compacta posee menos sistemas de deslizamiento que la estructura cúbica centrada en las caras (FCC).",1];
+Frases[86] = ["En empaquetamientos compactos el número de huecos octaédricos coincide con el número de átomos de la celdilla unidad.",1];
+Frases[87] = ["Una de las características estructurales del tetraedro SiO_4^(4-) es que permite formar sólidos moleculares lineales, superficiales y volumétricos.",1];
+Frases[88] = ["La densidad real de un elemento metálico es mayor que la teórica debido a la presencia de defectos en su estructura cristalina.",0];
+Frases[89] = ["En una dislocación mixta, el vector de Burgers no cambia su dirección en toda la línea de la dislocación.",1];
+Frases[90] = ["El vector de Burgers de una dislocación siempre está contenido sobre el plano de máxima compacidad o plano de deslizamiento. Si la dislocación es de tipo cuña, además es paralelo al vector de la línea de la dislocación.",0];
+Frases[91] = ["La energía superficial asociada a un borde de grano de ángulo pequeño es mayor que la de un borde de grano de un ángulo grande.",0];
+Frases[92] = ["Si un átomo A y un átomo B cumplen las reglas de Hume-Rothery forman soluciones sólidas de tipo sustitucional.",1];
+Frases[93] = ["Al disolver en estado sólido un elemento puro A (soluto) en otro elemento puro B (solvente), la tendencia a formar una nueva fase distinta a la del solvente aumenta cuanto mayor sea la diferencia entre las electronegatividades de A y de B.",1];
+Frases[94] = ["Si un átomo de tipo A tiene que difundir en la estructura cristalina formada por átomos de tipo B y los átomos de A se acumulan con el tiempo en el interior del material B, tendré que utilizar la segunda ley de Fick para poder resolver este problema de difusión.",1];
+Frases[95] = ["La difusión del carbono en hierro FCC es más rápida que en hierro BCC.",0];
+Frases[96] = ["La difusión en volumen de grano es más rápida que la difusión en borde de grano.",0];
+Frases[97] = ["Los procesos difusivos en un material policristalino se aceleran al disminuir su tamaño de grano.",1];
+Frases[98] = ["Para poder resolver la primera ley de Fick es necesario aplicar condiciones de contorno de sólido semiinfinito",0];
+Frases[99] = ["El enlace iónico y el enlace covalente son ambos direccionales.",0];
+Frases[100] = ["La energía de enlace de dos átomos en equilibrio es aquella que satisface que la fuerza neta de interacción entre dichos átomos es nula.",1];
+Frases[101] = ["Cuanto mayor es la temperatura de fusión de una sustancia mayor es su energía de enlace.",1];
+Frases[102] = ["El carácter iónico de un enlace depende de la diferencia de electronegatividad entre los átomos; cuanto mayor sea dicha diferencia mayor tendencia a formar un enlace iónico.",1];
+Frases[103] = ["El número de coordinación atómico de un cristal FCC es menor que el de un BCC.",0];
+Frases[104] = ["Las estructuras cristalinas FCC y HC poseen idéntico número de coordinación e idéntico factor de empaquetamiento. Además, los planos más compactos de ambas estructuras tienen los mismos índices de Miller.",0];
+Frases[105] = ["En un metal FCC se observan los siguientes apilamientos de planos compactos: a) ABCABCBACBA; y b) ABCABCBCABC. El primero contiene un plano o frontera de macla mientras que el segundo contiene un defecto de apilamiento hexagonal contenido entre dos planos.",1];
+Frases[106] = ["En la estructura cristalina HC los planos (0001) tienen la misma densidad planar que los planos (111) de la estructura FCC.",1];
+Frases[107] = ["Todas las estructuras cristalinas de los metales poseen algunas direcciones y planos que son más compactos que el resto. Las energías asociadas a dichas direcciones y planos son mínimas.",1];
+Frases[108] = ["Un metal policristalino formado por monocristales anisotrópicos no puede ser isotrópico.",0];
+Frases[109] = ["El número máximo de “vacantes por unidad de volumen” que puede haber en un monocristal coincide con el “número total de átomos por unidad de volumen de la celdilla cristalina unitaria” de dicho monocristal.",1];
+Frases[110] = ["Los procesos difusivos activados por vacantes son más rápidos en las estructuras cristalinas con mayor factor de empaquetamiento atómico.",0];
+Frases[111] = ["En una dislocación, el vector de Burgers (𝒃) varía a lo largo de la línea de la dislocación.",0];
+Frases[112] = ["La energía superficial asociada a un borde de grano aumenta a medida que el ángulo θ aumenta; siendo θ el ángulo de desajuste cristalino entre dos monocristales contiguos.",1];
+Frases[113] = ["La adición o inserción de dislocaciones de cuña en un monocristal produce límites de grano de ángulo de desajuste cristalino (θ) grande.",0];
+Frases[114] = ["En un metal puro no existe movimiento atómico a lo largo de la red cristalina ya que según la primera ley de Fick el gradiente de concentración con la distancia es necesariamente nulo.",0];
+Frases[115] = ["La energía de activación de un proceso de difusión autodifusivo es normalmente mayor que la de un proceso de difusión intersticial. Por este motivo, un átomo sustitucional se moverá más rápido que un átomo intersticial.",0];
+Frases[116] = ["La solución a la segunda ley de Fick bajo condiciones de sólido semiinfinito establece que es posible obtener el mismo perfil de variación de concentración si se varían a la vez tiempo y temperatura de tratamiento, tales que a menor tiempo mayor temperatura de tratamiento.",1];
+Frases[117] = ["El vector de Burgers está contenido sobre el plano de máxima compacidad.",1];
+Frases[118] = ["Las dislocaciones de cuña (borde) interactúan menos con un defecto de borde de grano de ángulo pequeño en comparación con uno de ángulo grande.",1];
+Frases[119] = ["Si una aleación “isomórfica binaria” (o de “solubilidad total”) presenta segregación química, fundirá a una temperatura menor de la esperada según su diagrama de fases.",1];
+Frases[120] = ["Las dislocaciones de cuña (borde) pueden ver aumentada su movilidad al disolver, en el estado sólido, átomos sustitucionales de tamaño más pequeño.",0];
+Frases[121] = ["Las soluciones sólidas son mezclas heterogéneas de al menos dos fases sólidas.",0];
+Frases[122] = ["La reacción invariante peritéctica es una transformación de fase incongruente.",1];
+
+NOVES PARCIALS
+Frases[123] = ["",];
+Frases[124] = ["",];
+Frases[125] = ["",];
+Frases[126] = ["",];
+Frases[127] = ["",];
+Frases[128] = ["",];
+Frases[129] = ["",];
+Frases[130] = ["",];
+
+
+NOVES FINALS
+Frases[] = ["Los elastómeros son polímeros que poseen una estructura molecular de cadenas lineales y parcialmente entrecruzadas, lo que permite que el polímero tenga una deformación elástica excepcional.",1];
+Frases[] = ["Los polímeros termoplásticos, una vez fabricados, no se pueden volver a fundir.",0];
+Frases[] = ["En una reacción de polimerización por adición no se crean subproductos y las cadenas poliméricas incrementan su longitud mediante la adición de unidades repetitivas.",1];
+Frases[] = ["Un polímero termoplástico que sólo muestra temperatura de transición vítrea (Tg) tiene que ser necesariamente amorfo.",1];
+Frases[] = ["Un polímero termoplástico que sólo muestra temperatura de transición vítrea (Tg) funde necesariamente a dicha temperatura.",1];
+Frases[] = ["Un polímero termoplástico que muestra comportamiento de sólido vítreo a temperatura ambiente tiene que tener necesariamente una temperatura de transición vítrea mayor que la temperatura ambiente.",1];
+Frases[] = ["Un polímero termoplástico que muestra comportamiento de sólido vítreo a temperatura ambiente podría ser amorfo o semicristalino.",1];
+Frases[] = ["En una reacción peritéctica, dos líquidos de diferente composición química reaccionan para dar lugar a un sólido.",0];
+Frases[] = ["Una aleación segregada químicamente funde a una menor temperatura.",1];
+Frases[] = ["Sabemos que el wolframio (W) y el iridio (Ir) son dos metales que tienen valores muy elevados del módulo de Young al igual que un fuerte carácter refractario/cerámico. Esto se debe a la gran curvatura que poseen los pozos del potencial atómico de estos metales en el entorno de la distancia atómica de equilibrio.",1];
+Frases[] = ["La martensita en los aceros se produce mediante un proceso de temple en condiciones de no equilibrio termodinámico. A mayor cantidad de carbono disuelto en la austenita, mayor dureza tendrá la martensita resultante.",0];
+Frases[] = ["En una reacción invariante incongruente, coexisten en equilibrio termodinámico tres fases.",1];
+Frases[] = ["Un monocristal se deforma plásticamente cuando en alguno de sus sistemas de deslizamiento activos se alcanza la tensión cortante crítica (o tensión de cizalladura crítica resuelta máxima, (Tau)_crss).",1];
+Frases[] = ["El mecanismo de endurecimiento por disolución sólida provoca en realidad un aumento de la tensión cortante crítica (o tensión de cizalladura crítica resuelta máxima, (Tau)_crss).",1];
+Frases[] = ["En una dislocación de cuña (o borde) su vector de Burgers indica la dirección y el sentido del deslizamiento.",1];
+Frases[] = ["A la temperatura de recristalización de la aleación, la totalidad de los granos presentes han sido recristalizados y su tamaño es necesariamente igual al de los granos que existían una vez finalizado el proceso de deformación en frío.",0];
+Frases[] = ["La siguiente ecuación permite explicar el mecanismo de endurecimiento por reducción del tamaño de grano: 𝜎_𝑦=𝜎_0+𝑘∙√𝑑. Siendo 𝜎_y la tensión de límite elástico y d el tamaño de grano, con 𝜎_0 y k dos constantes de ajuste.",0];
+Frases[] = ["Al deformar en frío una aleación metálica se observa un incremento de su tensión de límite elástico. Dicho incremento de tensión está relacionado con una disminución de la densidad de dislocaciones del material.",0];
+Frases[] = ["Al endurecer por precipitación una aleación de aluminio-cobre se observa que su límite elástico aumenta con el tiempo de tratamiento térmico hasta alcanzar un valor máximo para cierto tiempo. Superado este tiempo, su límite elástico disminuye.",1];
+Frases[] = ["La temperatura de recristalización de una aleación endurecida por trabajo en frío es mayor cuanto mayor sea el porcentaje de trabajo en frío que acumula.",0];
+Frases[] = ["Un material metálico que acumula trabajo en frío experimentará crecimiento de grano si se mantiene a su
+temperatura de recristalización durante más de 1 hora.",1];
+Frases[] = ["Un material metálico deformado a temperatura ambiente no tiene por qué mostrar endurecimiento por
+deformación en frío ya que podría estar deformándose en caliente.",1];
+Frases[] = ["El mecanismo de endurecimiento por deformación plástica en un material metálico provoca un incremento en su
+tensión de límite elástico debido a un incremento de su densidad de dislocaciones.",1];
+Frases[] = ["En un sistema isomórfico binario siempre es posible encontrar una aleación que posea una tensión de límite
+elástico mayor que las respectivas tensiones de límite elástico de sus elementos puros.",1];
+Frases[] = ["En un diagrama de fases de solubilidad total, una aleación que presente segregación química fundirá a una
+temperatura menor que si hubiera sido enfriada en condiciones de equilibrio.",1];
+Frases[] = ["El coeficiente de difusión del carbono en la ferrita es mayor que en la austenita.",1];
+Frases[] = ["Cuanto mayor sea el porcentaje de trabajo en frío acumulado por una aleación mayor será su temperatura de
+recristalización.",0];
+Frases[] = ["La tensión de límite proporcional coincide con la tensión de límite elástico en aquellos materiales que sólo
+muestran comportamiento elástico antes de la rotura; los materiales cerámicos son un ejemplo.",1];
+Frases[] = ["En un proceso de difusión por vacantes, la difusión en volumen de grano es más rápida que la difusión en borde
+de grano.",0];
+Frases[] = ["En el diagrama de fases termodinámico Fe-Fe_3C, la proporción de ferrita y cementita en la perlita siempre es la
+misma independientemente de la composición nominal de la aleación.",1];
+Frases[] = ["Un termoplástico amorfo que opera en condiciones de servicio por debajo de su temperatura de transición vítrea
+está constituido por dos fases.",0];
+Frases[] = ["Cuanto mayor sea la diferencia de electronegatividad entre dos átomos mayor será la tendencia a formar un
+sólido iónico.",1];
+Frases[] = ["Los polímeros termoestables pueden utilizarse, por debajo de su temperatura de transición vítrea, como material
+estructural o resistente, es decir, con capacidad de soportar carga mecánica sin mostrar deformación plástica.",1];
+Frases[] = ["La fusión de una disolución sólida terminal, por ejemplo en un diagrama eutéctico, es congruente sólo cuando su
+composición química coincide con la de su elemento puro.",1];
+Frases[] = ["Las ecuaciones que permiten calcular la tensión y la deformación verdaderas sólo son válidas para valores de
+tensión mayores o iguales que la tensión de límite elástico y menores o iguales que la tensión máxima.",1];
+Frases[] = ["Las aleaciones hipo- y hiper-eutécticas siempre están formadas por dos microconstituyentes: 1) el primario o
+proeutéctico, que es distinto en ambos casos; y 2) el eutéctico o mezcla invariante que siempre es el mismo.",1];
+Frases[] = ["En un ensayo de tracción, la estricción (formación del cuello o inestabilidad plástica) es un fenómeno que tiene
+lugar en todos los materiales.",0];
+Frases[] = ["Al aumentar la resiliencia de un metal por deformación en frío también aumenta su dureza.",1];
+Frases[] = ["El módulo o coeficiente de Poisson se obtiene midiendo, en un ensayo normalizado de tracción, la reducción de
+sección respecto al alargamiento que experimenta una probeta una vez se ha roto.",0];
+Frases[] = ["Un polímero termoplástico que opera en régimen de sólido flexible puede mostrar comportamiento elástico y
+plástico dependiendo del valor de la tensión aplicada.",1];
+Frases[] = ["Al modificar la microestructura de un metal puro (por ejemplo, tamaño de grano y/o densidad de dislocaciones)
+también cambia su módulo de Young y su límite elástico.",0];
+Frases[] = ["La densidad real de un material monocristalino es siempre mayor que la teórica debido a la presencia de
+defectos cristalinos puntuales y lineales.",0];
+Frases[] = ["Si dos materiales poseen la misma tenacidad también tendrán la misma ductilidad.",0];
+Frases[] = ["La adición de elementos aleantes modifica, en los aceros, la composición del eutectoide. Por eso, la fase
+primaria que nuclea en borde de grano puede cambiar de ferrita (sin aleantes) a cementita (con aleantes).",1];
+Frases[] = ["En un diagrama de fases, un elemento puro terminal siempre presentará por debajo de su temperatura de fusión
+una estructura típica de material monocristalino y monofásico.",0];
+Frases[] = ["En un acero, la cantidad máxima de cementita primaria se obtiene para una composición nominal de 2.14 %wt-C.",1];
+Frases[] = ["En un diagrama de fases, un compuesto intermedio nunca puede fundir de forma congruente.",0];
+Frases[] = ["Un acero hipoeutectoide posee menor límite elástico, menor dureza y mayor tenacidad que un hipereutectoide.",1];
+Frases[] = ["Un acero hipereutectoide no puede contener nunca un 50 %-en peso de perlita.",1];
+Frases[] = ["Una curva de enfriamiento sólo muestra tramos horizontales cuando se alcanza una temperatura invariante.",1];
+Frases[] = ["En un ensayo de tracción, la ecuación de conservación de volumen es válida tanto en la zona de deformación
+elástica como en la zona de deformación plástica homogénea (antes de la estricción o formación del cuello).",0];
+Frases[] = ["En un ensayo de tracción uniaxial, la “tensión verdadera” (!!) y la “tensión ingenieril” (!!) se relacionan entre sí
+mediante la relación 𝜎_v = 𝜎_I ∙ (1 + (épsilon)) , donde (épsilon) es la “deformación ingenieril”.",1];
+Frases[] = ["La “tensión de límite elástico” (𝜎_y) de una aleación metálica estrictamente no es una propiedad del material ya
+que depende de la cantidad de defectos cristalinos que acumule, por ejemplo, defectos lineales y superficiales.",1];
+Frases[] = ["El mecanismo de endurecimiento por disolución sólida de tipo sustitucional produce una disminución del número
+de vacantes (defectos puntuales) en el material.",0];
+Frases[] = ["Al endurecer por precipitación una aleación de Aluminio se observa que su “tensión de límite elástico” (𝜎_y)
+aumenta con el tiempo de tratamiento térmico hasta alcanzar un valor máximo para cierto tiempo. Superado este
+tiempo, su 𝜎_y disminuye.",1];
+Frases[] = ["La energía interna que acumula una aleación endurecida por deformación disminuye al aplicar un tratamiento
+térmico de recocido en todas las etapas del proceso (restauración, recristalización y crecimiento de grano).",1];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, la austenita es una fase que se endurece al disolver en estado sólido átomos
+de Carbono (C) en los huecos o intersticios octaédricos de la red cristalina FCC del Hierro (Fe).",1];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, no existe ningún acero hipereutectoide que tenga el mismo porcentaje en
+peso de cementita y de perlita.",1];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, las fundiciones hipoeutécticas no contienen a temperatura ambiente
+microconstituyente eutectoide.",0];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, el acero que posee mayor porcentaje en peso de cementita primaria tiene
+como composición nominal el mismo porcentaje en peso de carbono que la austenita puede disolver a la
+temperatura invariante eutéctica.",1];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, las dos transformaciones alotrópicas del Fe se producen a las temperaturas
+invariantes.",0];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, a la temperatura invariante eutéctica, el número de vacantes en la austenita
+es mayor en los aceros hipoeutectoides que en los aceros hipereutectoides.",0];
+Frases[] = ["Al aumentar la temperatura de un acero de composición eutectoide, desde la temperatura eutectoide hasta la
+temperatura eutéctica, se observaría que tanto el coeficiente de difusión como la solubilidad máxima de carbono
+en la austenita aumentan con la temperatura.",1];
+Frases[] = ["En un diagrama de fases cuando las líneas Liquidus y Solidus coinciden siempre definen una temperatura de
+fusión de tipo congruente.",0];
+Frases[] = ["En cualquier diagrama de fases termodinámico (velocidad de enfriamiento muy lenta), las líneas que limitan las
+diferentes zonas de coexistencia entre fases se verían desplazadas si la velocidad de enfriamiento del sistema
+aumentara.",1];
+Frases[] = ["Si una aleación metálica se endurece por precipitación, los precipitados actúan como un mecanismo de anclaje
+al movimiento de las dislocaciones. Por este motivo, estos materiales son más resistentes y más frágiles.",1];
+Frases[] = ["Al solidificar una aleación líquida que sufre segregación química, debido a un enfriamiento fuera del equilibrio, se
+observará que su solidificación total se produce a una temperatura menor que la del diagrama de equilibrio.",1];
+Frases[] = ["Si dos elementos puros A y B cumplen 3 de las 4 reglas de Hume Rothery pueden presentar solubilidad parcial.",1];
+Frases[] = ["Si dos dislocaciones tienen signo contrario (positivo y negativo) y se mueven sobre el mismo plano de
+deslizamiento se repelen, es decir, una frena a la otra en su movimiento relativo hasta aniquilarse.",0];
+Frases[] = ["La energía de activación asociada al movimiento difusivo de átomos intersticiales es mayor que la asociada al
+movimiento de vacantes.",0];
+Frases[] = ["Cuando un elemento puro acumula en su interior átomos intersticiales debido a un proceso difusivo es necesario
+aplicar la segunda ley de Fick ya que se trata de un proceso no estacionario, es decir, dependiente del tiempo.",1];
+Frases[] = ["En un proceso de carburación en horno, si el material a carburar es muy grande y si la atmósfera carburante en
+superficie es constante, se puede utilizar como solución a la 2ª ley de Fick la solución de sólido semi-infinito.",1];
+Frases[] = ["La temperatura de fusión del Plomo (Pb) es de 327 ºC. Por tanto, a temperatura ambiente (20 ºC), el Pb no es
+susceptible del mecanismo de endurecimiento por deformación (es decir, no endurece por deformación).",1];
+Frases[] = ["Un polímero termoplástico puede presentar fase amorfa y fase cristalina a temperaturas inferiores a la de
+transición vítrea (Tg).",1];
+Frases[] = ["El porcentaje de cristalinidad que puede desarrollar un polímero termoplástico depende de su velocidad de
+enfriamiento. A mayor velocidad mayor porcentaje de cristalinidad.",0];
+Frases[] = ["En un polímero termoplástico semicristalino las esferulitas están formadas por cristalitas, las cuales sólo
+contienen fase cristalina.",0];
+Frases[] = ["La “masa molecular media en peso” (Mw) de una distribución de cadenas poliméricas da idea del peso medio de
+las cadenas más cortas.",0];
+Frases[] = ["Al aumentar la “masa molecular media en peso” (Mw) de un polímero termoplástico aumenta su temperatura de
+transición vítrea y su temperatura de fusión.",1];
+Frases[] = ["El plano {111} de la estructura FCC y el plano {0001} de la estructura HC tienen exactamente el mismo arreglo
+o disposición de átomos. Por tanto, la densidad planar de dichos planos es la misma.",1];
+Frases[] = ["Si una dislocación se aproxima a un borde de grano le costará menos atravesarlo en la medida en que el ángulo
+de desajuste de dicho borde de grano tienda o disminuya hasta cero.",1];
+Frases[] = ["Las energías de activación (E) de los procesos difusivos en volumen (V), en borde de grano (BG) y en superficie
+(S) se ordenan según: E_V > E_(BG) > E_S.",1];
+Frases[] = ["Si un material ensayado a tracción experimenta un porcentaje de reducción de área del 100% su ductilidad será
+muy pequeña.",0];
+Frases[] = ["La tenacidad es el área debajo de la curva tensión-deformación hasta rotura, es decir, la energía por unidad de
+volumen que un material acumula antes de romperse.",1];
+Frases[] = ["Un monocristal que endurece por deformación plástica disminuye su densidad de dislocaciones.",0];
+Frases[] = ["El mecanismo central para explicar la variación de las propiedades mecánicas de las aleaciones isomórficas
+binarias (o de solubilidad total) es el de endurecimiento por disolución sólida de tipo sustitucional.",1];
+Frases[] = ["Al comparar dos aleaciones isomórficas binarias (o de solubilidad total) con la misma composición química se
+observa que la primera funde a una mayor temperatura. Sobre la base de este resultado, se concluye que la
+primera fue enfriada más rápidamente que la segunda.",0];
+Frases[] = ["En un diagrama de fases eutéctico, en donde los elementos terminales son mutuamente insolubles, las fases
+terminales no pueden endurecerse mediante un tratamiento térmico de precipitación pero sí podrían hacerlo
+mediante un mecanismo de endurecimiento por deformación plástica.",1];
+Frases[] = ["En un diagrama de fases eutéctico de solubilidad parcial sí es posible obtener aleaciones segregadas
+químicamente.",1];
+Frases[] = ["En los diagramas de fases, si se tiene una aleación totalmente líquida que solidifica de forma incongruente,
+siempre se obtendrá una única fase sólida durante el proceso de solidificación.",0];
+Frases[] = ["Para aumentar significativamente el contenido de carbono de un acero hipoeutectoide mediante un proceso de
+disolución intersticial es necesario calentar hasta obtener una microestructura 100% de austenita.",1];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, un acero de composición química igual al valor máximo de solubilidad de C en
+austenita mostrará a la temperatura eutectoide la menor cantidad posible de cementita primaria.",0];
+Frases[] = ["En el diagrama de fases Fe-Fe_3C, las fundiciones hipoeutécticas muestran microconstituyente eutéctico desde la
+temperatura eutéctica (justo por debajo) hasta la temperatura eutectoide (justo por arriba).",1];
+Frases[] = ["El mecanismo esencial que explica la formación de perlita implica la difusión de carbono delante de las láminas
+de ferrita en la dirección de las láminas de cementita.",1];
+Frases[] = ["La adición de elementos aleantes puede convertir a un acero hipo-eutectoide en otro hiper-eutectoide
+manteniendo constante la cantidad de carbono.",1];
+Frases[] = ["La cementita es un compuesto intermetálico que sufre fusión de tipo incongruente.",0];
+Frases[] = ["Los procesos difusivos son procesos activados térmicamente que cumplen una ley de tipo Arrhenius.",1];
+Frases[] = ["Las energías de activación (E) de los procesos difusivos en volumen (V), en borde de grano (BG) y en superficie
+(S) se ordenan según: E_V < E_(BG) < E_S.",0];
+Frases[] = ["La energía elástica que acumula un material por deformación hasta rotura coincide con su valor de resiliencia.",1];
+Frases[] = ["La energía total que acumula un material por deformación hasta rotura coincide con su valor de tenacidad.",1];
+Frases[] = ["En la ecuación de Hall-Petch (HP) la constante de ajuste 𝜎_0 podría interpretarse como el valor de la tensión de
+límite elástico que tendría dicho material en el caso policristalino.",0];
+Frases[] = ["El mecanismo de endurecimiento por disolución sólida de tipo intersticial permite explicar la variación de las
+propiedades mecánicas de las aleaciones isomórficas binarias.",0];
+Frases[] = ["En un diagrama isomórfico binario la solubilidad de A en B o de B en A es, en ambos casos, del 50%.",0];
+Frases[] = ["En un diagrama isomórfico binario las aleaciones segregadas químicamente funden a una temperatura más alta.",0];
+Frases[] = ["En un diagrama de fases eutéctico de insolubilidad total no es posible aumentar la dureza de ninguna de las
+fases terminales mediante un tratamiento térmico de precipitación.",1];
+Frases[] = ["En un diagrama de fases eutéctico de solubilidad parcial sí es posible obtener aleaciones segregadas
+químicamente.",1];
+Frases[] = ["En un tratamiento térmico de recocido, la densidad de dislocaciones de una aleación endurecida por deformación
+en frío disminuye a lo largo de todas las etapas de restauración, recristalización y crecimiento de grano.",1];
+Frases[] = ["La temperatura de recristalización de una aleación endurecida por trabajo en frío es mayor cuanto mayor sea el
+porcentaje de trabajo en frío que acumula.",0];
+Frases[] = ["En un proceso de deformación plástica con varios pasos las propiedades mecánicas vienen fijadas en el último
+paso de deformación, que debe hacerse siempre en frío tras un tratamiento térmico previo de recocido.",1];
+Frases[] = ["La temperatura mínima posible a la cual habría que calentar un acero hipoeutectoide para poderlo someter a un
+proceso de endurecimiento por disolución sólida de tipo intersticial de carbono sería la temperatura eutectoide.",0];
+Frases[] = ["Para poder cambiar por difusión la composición química inicial de cualquier acero (hipo- y hiper-eutectoide) hasta
+conseguir la máxima solubilidad de carbono en austenita habría que calentar hasta la temperatura eutéctica.",1];
+Frases[] = ["En el diagrama termodinámico Fe-Fe_3C, un acero de composición química igual al valor máximo de solubilidad
+de C en austenita mostrará a la temperatura eutectoide la mayor cantidad posible de cementita primaria.",1];
+Frases[] = ["En el diagrama termodinámico Fe-Fe_3C, las fundiciones hipoeutécticas forman justo por debajo de la línea de
+solidus una mezcla formada por ledeburita primaria y austenita.",0];
+Frases[] = ["En los aceros, un incremento en la velocidad de enfriamiento permite disminuir el contenido de fase primaria.",1];
+Frases[] = ["La adición de aleantes puede convertir a un acero inicialmente hipo- en hiper-eutectoide, en cuyo caso, la fase
+primaria que se formaría en borde de grano de austenita, en condiciones termodinámicas, sería cementita.",1];
+Frases[] = ["La cementita es un compuesto intermetálico que sufre fusión de tipo incongruente.",0];
+Frases[] = ["Los polímeros termoplásticos sólo pueden cristalizar si sus cadenas poliméricas superan un cierto valor mínimo
+de longitud o, de forma equivalente, de peso molecular.",1];
+Frases[] = ["En un polímero termoplástico semicristalino los procesos difusivos de especies gaseosas son más rápidos en las
+zonas cristalinas que en las zonas amorfas.",0];
+Frases[] = ["La permeabilidad de un termoplástico semicristalino a distintas especies gaseosas aumenta al aumentar su
+porcentaje de cristalinidad.",0];
+Frases[] = ["En polímeros, la adición de grupos polares en la cadena principal hace aumentar las temperaturas de transición
+vítrea y de fusión.",1];
+Frases[] = ["Para que un termoplástico amorfo se comporte como un sólido flexible es necesario estar a una temperatura
+mayor que su temperatura de transición vítrea.",0];
+Frases[] = ["La temperatura de transición vítrea de un polímero termoplástico disminuiría con la adición de dobles enlaces o
+grupos laterales voluminosos en la cadena principal.",0];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+Frases[] = ["",];
+
+
+
+
+
+
+
+
+POLÍMEROS
+Frases[] = ["La masa molecular media numérica es menor que la masa molecular media en peso.",1];
+Frases[] = ["La masa molecular media numérica da una idea de la masa molecular media de las cadenas poliméricas cortas, que se encuentran, por tanto, en mayor presencia numérica.",1];
+Frases[] = ["La masa molecular media en peso da una idea de la masa molecular media de las cadenas poliméricas largas, que se encuentran, por tanto, en menor presencia numérica.",1];
+Frases[] = ["La densidad de un cristal homopolímero de cadena lineal es directamente proporcional a la masa molecular de su unidad repetitiva.",1];
+Frases[] = ["Un termoplástico en estado de sólido flexible está formado por fase cristalina y fase amorfa. Por tanto, su densidad será menor que la densidad de la fase cristalina y mayor que la de la fase amorfa.",1];
+Frases[] = ["La sustitución aleatoria de átomos de hidrógeno por átomos de cloro en el polietileno aumenta la temperatura de transición vítrea y disminuye la temperatura de fusión del material resultante.",0];
+Frases[] = ["La longitud total de la cadena polimérica media es inversamente proporcional a la masa molecular media numérica de la distribución de cadenas poliméricas.",0];
+Frases[] = ["La longitud total de la cadena polimérica media es directamente proporcional al grado de polimerización.",1];
+Frases[] = ["Las cadenas poliméricas se pliegan así mismas durante el proceso de polimerización. Por tanto, la distancia entre el principio y el final de la cadena es siempre menor que su longitud total.",1];
+Frases[] = ["Si la masa molecular media numérica de un determinado polímero disminuye, también disminuirá la distancia media entre el principio y el final de sus cadenas poliméricas.",1];
+Frases[] = ["Sólo es posible obtener copolímeros alternados si la fracción en peso de las dos unidades repetitivas es igual a 1. En cualquier otro caso se formarán copolímeros al azar, en bloque o de injerto.",1];
+Frases[] = ["En un termoplástico semicristalino, la presencia de dobles enlaces en la cadena principal y la adición de grupos polares y/o grupos laterales voluminosos aumenta su temperatura de transición vítrea.",1];
+Frases[] = ["La cristalinidad de un termoestable depende de la velocidad de enfriamiento, siendo ésta menor cuanto mayor sea dicha velocidad.",0];
+Frases[] = ["Los materiales termoplásticos y los elastómeros presentan flujo viscoso por encima de su temperatura de transición vítrea.",0];
+Frases[] = ["Un polímero termoplástico presenta siempre dos fases independientemente del estado de agregación en que se encuentre.",0];
+Frases[] = ["En condiciones normales de solidificación, un material policristalino es anisotrópico si los monocristales que lo forman son anisotrópicos.",0];
+
+
+
+
+
+
+Frases[] = ["",];
