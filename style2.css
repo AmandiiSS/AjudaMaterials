@@ -33,21 +33,34 @@
   border-radius: 20px; /*bordes redondos*/
   font-size: 30px;
   box-shadow: 5px 5px #164E04;
+  left: 0;
+  position: absolute;
 }
 .botonV:hover { 
   background-color: #7FF540; /*color botón*/
 }
-/*
+
 .botonV:active{
   margin-left: 2.5px;
   margin-top: 2.5px;
   box-shadow: 2.5px 2.5px #0D3102;
 }
-*/
 
 
 .boxvf {
-  width: 100%;
+  position: relative;
+  width: 365px;
+  /*border: 1px solid #000000;*/
+  align-items: center;
+  height: 60px;
+}
+
+.boxseg {
+  position: relative;
+  width: 30%;
+  height: 60px;
+  /*border: 1px solid #000000;*/
+  float: right;
 }
 
 
@@ -62,18 +75,20 @@
   border-radius: 20px; /*bordes redondos*/
   font-size: 30px;
   box-shadow: 5px 5px #5F0606;
+  right: 0;
+  position: absolute;
 }
 
 .botonF:hover {
   background-color: #F13C54;
 }
-/*
+
 .botonF:active{
   margin-left: 2.5px;
   margin-top: 2.5px;
   box-shadow: 2.5px 2.5px #0D3102;
 }
-*/
+
 
 
 .botonNext { 
@@ -87,19 +102,20 @@
   border-radius: 10px; /*bordes redondos*/
   font-size: 30px;
   box-shadow: 5px 5px #CF8D13;
-  margin-right: 10%;
+  right: 30%;
+  position: absolute;
 }
 
 .botonNext:hover {
   background-color: #FDD397;
 }
-/*
+
 .botonNext:active{
   margin-left: 2.5px;
   margin-top: 2.5px;
   box-shadow: 2.4px 2.4px #8A5F0E;
 }
-*/
+
 
 
 
@@ -115,8 +131,7 @@
   font-family: 'Helvetica', sans-serif; /*tipografía texto*/
   border-radius: 5px; /*bordes redondos*/
   font-size: 20px;
-  margin-left: 35%;
-  margin-right: 35%;
+  width: 370px;
   text-align: center;
 }
 
@@ -181,5 +196,41 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
+}
+
+@media screen and (max-width: 605px) {
+  .botonV { 
+    top: 0;
+    left: 45px;
+    position: absolute;
+  }
+
+.boxvf {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  /*border: 1px solid #000000;*/
+  align-items: center;
+  height: 60px;
+}
+
+.boxseg {
+  position: relative;
+  width: 30%;
+  height: 60px;
+  /*border: 1px solid #000000;*/
+  float: right;
+}
+
+.row{
+  height: 140px;
+}
+
+.botonF { 
+  top: 75px;
+  left: 90px;
+  position: absolute;
+}
+
 }
 
