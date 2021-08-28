@@ -11,14 +11,13 @@
   color: #000000;
   background: #D0B1FC;
   padding: 20px;
-  margin: 0 0 25px;
-  overflow: hidden;
   border-radius: 30px 0px 30px 0px;
   -moz-border-radius: 30px 0px 30px 0px;
   -webkit-border-radius: 30px 0px 30px 0px;
   border: 2px solid #8510AE;
   text-align: center;
   font-family: Verdana,sans-serif;
+  margin-bottom: 25px;
 }
 
 
@@ -157,7 +156,6 @@
   border: 1.5px solid #E76600;
 }
 
-
 .enrere {
   color: #000000;
 }
@@ -198,6 +196,8 @@ h6 {
   padding: 0;
 }
 
+/*CANVIS EN ELS CANVIS DE DISPOSITIUS*/
+
 @media screen and (max-width: 605px) {
   .botonV { 
     top: 0;
@@ -205,32 +205,177 @@ h6 {
     position: absolute;
   }
 
-.boxvf {
-  position: relative;
-  width: 300px;
-  height: 300px;
-  /*border: 1px solid #000000;*/
-  align-items: center;
-  height: 60px;
+  .boxvf {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    /*border: 1px solid #000000;*/
+    align-items: center;
+    height: 60px;
+  }
+
+  .boxseg {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    /*border: 1px solid #000000;*/
+    float: right;
+  }
+
+  .row{
+    height: 140px;
+  }
+
+  .botonF { 
+    top: 75px;
+    left: 90px;
+    position: absolute;
+  }
+
+  .respostess{
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+  }
+  .barraadalt {
+    font-size: 14px;
+    display: inline-block;
+    background: #FE9237;
+    color: #000000;
+    line-height: 1;
+    padding: 8px 8px;
+    margin-right: 4px;
+    border-radius: 5%;
+    text-align: center;
+    width: 200px;
+    height: 20px;
+    transition: 0.3s;
+    border: 1.5px solid #E76600;
+  }
+
 }
 
-.boxseg {
-  position: relative;
-  width: 30%;
-  height: 60px;
-  /*border: 1px solid #000000;*/
-  float: right;
+
+
+@media screen and (max-width: 350px) {
+  .caja{
+    font-size: 17px;
+  }
+  .botonV { 
+    top: 0;
+    left: 45px;
+    position: absolute;
+    font-size: 25px;
+  }
+
+  .botonF { 
+    top: 75px;
+    left: 85px;
+    position: absolute;
+    font-size: 25px;
+  }
+
+  .boxvf {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    /*border: 1px solid #000000;*/
+    align-items: center;
+    height: 60px;
+  }
+
+  .botonNext { 
+    font-size: 25px;
+    box-shadow: 5px 5px #CF8D13;
+    right: 30%;
+    position: absolute;
+  }
+
+  .boxseg {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    /*border: 1px solid #000000;*/
+    float: right;
+  }
+
+  .row{
+    height: 140px;
+  }
+
+  .respostess{
+    width: 200px;
+    text-align: center;
+  }
+
+  .soluciotext{
+    font-size: 20px;
+    align: center;
+  }
+
 }
 
-.row{
-  height: 140px;
-}
+@media screen and (max-width: 310px) {
+  .caja{
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .botonV { 
+    top: 0;
+    left: 20px;
+    position: absolute;
+    font-size: 23px;
+  }
 
-.botonF { 
-  top: 75px;
-  left: 90px;
-  position: absolute;
-}
+  .botonF { 
+    top: 75px;
+    left: 55px;
+    position: absolute;
+    font-size: 23px;
+  }
+
+  .boxvf {
+    position: relative;
+    width: 200px;
+    /*border: 1px solid #000000;*/
+    align-items: center;
+    height: 60px;
+  }
+
+  .botonNext { 
+    font-size: 23px;
+    box-shadow: 5px 5px #CF8D13;
+    right: 30%;
+    position: absolute;
+  }
+
+  .boxseg {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    /*border: 1px solid #000000;*/
+    float: right;
+  }
+
+  .row{
+    height: 130px;
+  }
+
+  .respostess{
+    width: 180px;
+    text-align: center;
+  }
+
+  .soluciotext{
+    font-size: 18px;
+    align: center;
+  }
+  .barraadalt {
+    font-size: 14px;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+  }
 
 }
 
