@@ -1,0 +1,82 @@
+
+
+
+.boto1{
+	width: 30%;
+	height: 50px;
+	font-size: 16px;
+	background: #ED7527;
+	border-radius: 4px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    border-color: #ED7527;
+    margin: auto;
+}
+
+.boto1:hover{
+	background: #F5973F;
+}
+
+.boto2{
+	width: 30%;
+	height: 50px;
+	font-size: 16px;
+	background: #07BBBD;
+	border-radius: 4px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin: auto;
+}
+
+.boto2:hover{
+	background: #4AD4F9;
+}
+
+.boto3{
+	width: 30%;
+	height: 50px;
+	font-size: 16px;
+	background: #BD075A;
+	border-radius: 4px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    margin: auto;
+}
+
+.boto3:hover{
+	background: #F833A7;
+}
+
+h1{
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-family: ;
+	color: black;
+
+}
+
+p{
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	text-align: center;
+
+}
+
+body{
+	background: #E2E3F5;
+  	color: #444;
+  	font-family: "Open Sans", sans-serif;
+}
+
+.divisio{
+	width: 100%;
+	position: relative;
+	align-items: center;
+	border: 1px solid #000000;
+	margin-bottom: 20px;
+}
