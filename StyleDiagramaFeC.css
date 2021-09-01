@@ -77,6 +77,48 @@ body{
 	width: 100%;
 	position: relative;
 	align-items: center;
-	border: 1px solid #000000;
+	/*border: 1px solid #000000;^*/
 	margin-bottom: 20px;
+	display: flex;
+}
+
+h2 {
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-family: ;
+	color: black;
+	font-size: 20px;
+}
+
+li {
+  list-style-type: none;
+  position: relative;
+  margin: auto;
+  width: 30%;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  background: lightgrey;
+  font-family: sans-serif;
+  text-align: center;
+  border: 0.4px solid #7F7F84;
+}
+
+li.done {
+  background: #CCFF99;
+}
+
+li.done::before {
+  content: '';
+  position: absolute;
+  border-color: #009933;
+  border-style: solid;
+  border-width: 0 0.3em 0.25em 0;
+  height: 1em;
+  top: 1.3em;
+  left: 0.6em;
+  margin-top: -1em;
+  transform: rotate(45deg);
+  width: 0.5em;
 }
