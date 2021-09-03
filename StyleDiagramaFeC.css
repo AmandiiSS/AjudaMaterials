@@ -105,11 +105,11 @@ li {
   border: 0.4px solid #7F7F84;
 }
 
-li.done {
+li.right {
   background: #CCFF99;
 }
 
-li.done::before {
+li.right::before {
   content: '';
   position: absolute;
   border-color: #009933;
@@ -121,4 +121,71 @@ li.done::before {
   margin-top: -1em;
   transform: rotate(45deg);
   width: 0.5em;
+}
+
+li.wrong {
+  background: #FE5959;
+}
+
+li.wrong:before {
+  position: absolute;
+  left: 15px;
+  content: ' ';
+  height: 21px;
+  width: 4px;
+  background-color: #990500;
+}
+
+li.wrong:after {
+  position: absolute;
+  left: 15px;
+  content: ' ';
+  height: 21px;
+  width: 4px;
+  background-color: #990500;
+}
+
+li.wrong:before {
+  transform: rotate(45deg);
+}
+li.wrong:after {
+  transform: rotate(-45deg);
+}
+
+
+@media screen and (max-width: 710px) {
+	.boto1{
+		width: 200px;
+		height: 50px;
+		font-size: 18px;
+		background: #ED7527;
+		border-radius: 4px;
+		-webkit-transition-duration: 0.4s; /* Safari */
+	    transition-duration: 0.4s;
+	    border-color: #ED7527;
+	    margin: auto;
+	}
+
+	.boto2{
+		width: 200px;
+		height: 50px;
+		font-size: 16px;
+		background: #07BBBD;
+		border-radius: 4px;
+		-webkit-transition-duration: 0.4s; /* Safari */
+	    transition-duration: 0.4s;
+	    margin: auto;
+	}
+
+	.boto3{
+		width: 200px;
+		height: 50px;
+		font-size: 16px;
+		background: #BD075A;
+		border-radius: 4px;
+		-webkit-transition-duration: 0.4s; /* Safari */
+	    transition-duration: 0.4s;
+	    margin: auto;
+	}
+
 }
